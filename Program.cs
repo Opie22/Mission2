@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
+// Dallen Openshaw
 
-namespace DiceRollSimulation
+namespace diceRoll
 {
     // Second class that simulates dice rolling
     public class DiceRoller
