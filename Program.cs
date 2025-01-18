@@ -1,9 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-// Dallen Openshaw
+﻿// Dallen Openshaw
 
 namespace diceRoll
 {
-    // Second class that simulates dice rolling
+    // Simulates dice rolling
     public class DiceRoller
     {
         private static Random _random = new Random();
